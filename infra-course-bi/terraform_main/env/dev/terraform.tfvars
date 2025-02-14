@@ -1,0 +1,5 @@
+environment         = "dev"
+aws_region         = "ap-northeast-1"
+ami                = "ami-0a6fd4c92fc6ed7d5"
+eip_allocation_id  = "eipalloc-0c4e11da262c5324d"
+key_name           = "bi-dev-kai-ec2-keypair"

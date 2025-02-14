@@ -1,0 +1,5 @@
+environment         = "prod"
+aws_region         = "ap-northeast-1"
+ami                = "ami-0a6fd4c92fc6ed7d5"
+eip_allocation_id  = "eipalloc-0364037a9aec1562a"
+key_name           = "bi-prod-kai-ec2-keypair"
